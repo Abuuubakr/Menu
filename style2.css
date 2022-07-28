@@ -1,0 +1,25 @@
+.content{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 40px;
+
+}
+img{
+    width: 100%;
+}
+.d1{
+    width: 23%;     
+    
+}
+h3{
+  font-size: 30px;
+  text-transform: capitalize;
+  font-weight: 500;  
+}
+p{
+    color: gray;
+
+}
